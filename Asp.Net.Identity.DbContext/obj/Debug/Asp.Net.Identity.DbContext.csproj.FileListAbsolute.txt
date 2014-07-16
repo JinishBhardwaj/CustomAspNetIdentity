@@ -1,0 +1,15 @@
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\Asp.Net.Identity.DbContext.dll.config
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\Asp.Net.Identity.DbContext.dll
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\Asp.Net.Identity.DbContext.pdb
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\EntityFramework.dll
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\Repository.dll
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\EntityFramework.xml
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\obj\Debug\Asp.Net.Identity.DbContext.csprojResolveAssemblyReference.cache
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\obj\Debug\Asp.Net.Identity.DbContext.dll
+D:\POC\AspNetIdentity\Asp.Net.Identity.DbContext\Asp.Net.Identity.DbContext\obj\Debug\Asp.Net.Identity.DbContext.pdb
